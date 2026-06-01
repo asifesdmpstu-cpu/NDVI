@@ -34,4 +34,4 @@ The analysis categorizes the NDVI values into five distinct classes to visualize
 **Asif Iqbal Nabil**
 *Researcher / GIS Enthusiast*
 *   [LinkedIn Profile](https://www.linkedin.com/in/esdmnabil/)
-*   [Email Address](asif.esdm.pstu@gmail.com)
+*   Email:asif.esdm.pstu@gmail.com
